@@ -39,12 +39,13 @@ _GSA_() {
 	(git submodule add https://github.com/$1 $2) || (echo ; echo "Cannot update $2: continuing...")
 }
 
+_GSA_ ErikCrick/android-tutorials Android/tutorials/ErikCrick/android-tutorials
+_GSA_ Tutorialindustry/Android Android/tutorials/Tutorialindustry/Android
 _GSA_ commonsguy/cw-andexplore Android/tutorials/commonsguy/cw-andexplore 
 _GSA_ commonsguy/cw-androidarch Android/tutorials/commonsguy/cw-androidarch
 _GSA_ commonsguy/cw-advandroid Android/tutorials/commonsguy/cw-advandroid 
 _GSA_ commonsguy/cw-android Android/tutorials/commonsguy/cw-androidtutorials
 _GSA_ commonsguy/cw-lunchlist Android/tutorials/commonsguy/cw-lunchlist 
 _GSA_ commonsguy/cw-omnibus Android/tutorials/commonsguy/cw-omnibus
-_GSA_ ErikCrick/android-tutorials Android/tutorials/ErikCrick/android-tutorials
 _GSA_ fx-adi-lima/android-tutorials Android/tutorials/fx-adi-lima/android-tutorials
 _GSA_ novoda/android-demos Android/tutorials/novoda/android-demos
