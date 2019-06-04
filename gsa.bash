@@ -48,4 +48,5 @@ _GSA_ commonsguy/cw-android Android/tutorials/commonsguy/cw-androidtutorials
 _GSA_ commonsguy/cw-lunchlist Android/tutorials/commonsguy/cw-lunchlist 
 _GSA_ commonsguy/cw-omnibus Android/tutorials/commonsguy/cw-omnibus
 _GSA_ fx-adi-lima/android-tutorials Android/tutorials/fx-adi-lima/android-tutorials
+_GSA_ mixi-inc/AndroidTraining Android/tutorials/mixi-inc/AndroidTraining 
 _GSA_ novoda/android-demos Android/tutorials/novoda/android-demos
