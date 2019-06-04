@@ -36,7 +36,7 @@ trap _SINMTRPSIGNAL_ HUP INT TERM
 trap _SINMTRPQUIT_ QUIT 
 
 _GSA_() {
-	(git submodule add https://github.com/$1 $2) || (echo ; echo "Cannot update $2: continuing...")
+	(git submodule add https://github.com/$1 $2) || (echo ; echo "Cannot update $2: continuing...") # https://www.tecmint.com/chaining-operators-in-linux-with-practical-examples/
 }
 
 _GSA_ ErikCrick/android-tutorials Android/tutorials/ErikCrick/android-tutorials
